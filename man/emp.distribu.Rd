@@ -5,7 +5,7 @@
 Empirical distribution function at one point
 }
 \description{
-Calculates the value of an empirical distribution function at one point.
+Computes the value of an empirical distribution function at one point.
 }
 \usage{
 emp.distribu(arg, dendat)

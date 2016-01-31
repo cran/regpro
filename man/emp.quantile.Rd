@@ -5,7 +5,7 @@
 Empirical quantile function at one point
 }
 \description{
-Calculates the value of a empirical quantile function at one point.
+Computes the value of an empirical quantile function at one point.
 }
 \usage{
 emp.quantile(arg, dendat)

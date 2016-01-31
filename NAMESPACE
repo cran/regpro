@@ -24,5 +24,12 @@ quantil.emp,
 copula.trans
 )
 
+import(denpro)
+
+importFrom("stats", "cov", "optim", "qnorm", "quantile", "runif","var")
+
+
+
+
 
 

@@ -5,7 +5,7 @@
 Moving average of a time series
 }
 \description{
-Calculates a one-sided weighted moving average from a univariate time series.
+Computes a one-sided weighted moving average from a univariate time series.
 The one-sided moving average can be used to predict the next value
 of the sequence.
 }

@@ -5,7 +5,7 @@
 An estimator of a partial derivative of a regression function at one point
 }
 \description{
-Calculates the value of a multivariate kernel estimator of a partial derivative
+Computes the value of a multivariate kernel estimator of a partial derivative
 of a regression function at a one point.
 }
 \usage{

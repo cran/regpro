@@ -5,7 +5,7 @@
 Regression function estimator in the additive model 
 }
 \description{
-Calculates the values of an additive model regression estimator 
+Computes the values of an additive model regression estimator 
 on a regular grid.
 }
 \usage{

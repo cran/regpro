@@ -5,7 +5,7 @@
 Multivariate local linear estimator 
 }
 \description{
-Calculates the values of a multivariate local linear regression estimator 
+Computes the values of a multivariate local linear regression estimator 
 on a regular grid.
 }
 \usage{

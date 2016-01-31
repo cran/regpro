@@ -5,7 +5,7 @@
 Multivariate local linear regression estimator at one point
 }
 \description{
-Calculates the value of a multivariate local linear regression estimator 
+Computes the value of a multivariate local linear regression estimator 
 at one point.
 }
 \usage{

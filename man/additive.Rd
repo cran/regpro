@@ -2,11 +2,11 @@
 \alias{additive}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-An additive model regression estimator at one point
+An additive model regression estimator for pointwise estimation
 }
 \description{
-Calculates the value of a regression function estimator based on the 
-additive model at one point.
+Computes the value of a regression function estimator at one point,
+when the estimator is based on the additive model.
 }
 \usage{
 additive(x, y, arg=NULL, eval=NULL, h=1, kernel="gauss", M=2, vect=FALSE)

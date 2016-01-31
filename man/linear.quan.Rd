@@ -5,7 +5,7 @@
 Multivariate linear quantile regression estimator
 }
 \description{
-Calculates the parameter estimates in the linear quantile regression.
+Computes the estimates of parameters for a linear quantile regression estimator.
 }
 \usage{
 linear.quan(x, y, p=0.5)

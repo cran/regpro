@@ -5,7 +5,7 @@
 A slice of a multivariate kernel regression estimator 
 }
 \description{
-Calculates the values of a univariate slice of multivariate kernel regression estimator 
+Computes the values of a univariate slice of multivariate kernel regression estimator 
 (Nadaraya-Watson estimator) on a regular grid.
 }
 \usage{

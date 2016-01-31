@@ -5,7 +5,7 @@
 Projection pursuit regression
 }
 \description{
-Calculates the value of a projection pursuit regression estimator at one point.
+Computes the value of a projection pursuit regression estimator at one point.
 }
 
 \usage{

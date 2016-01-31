@@ -5,7 +5,7 @@
 Stagewise fitting of an additive model
 }
 \description{
-Calculates the value of an additive model regression estimator 
+Computes the value of an additive model regression estimator 
 at one point using stagewise fitting
 }
 \usage{

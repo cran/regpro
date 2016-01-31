@@ -5,7 +5,7 @@
 An estimator of a conditional quantile function
 }
 \description{
-Calculates the values of an estimator of a conditional quantile
+Computes the values of an estimator of a conditional quantile
 function on a regular grid.
 }
 \usage{

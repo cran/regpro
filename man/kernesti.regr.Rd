@@ -5,7 +5,7 @@
 Multivariate kernel regression estimator at one point
 }
 \description{
-Calculates the value of a multivariate kernel regression estimator 
+Computes the value of a multivariate kernel regression estimator 
 (Nadaraya-Watson estimator) at one point.
 }
 \usage{

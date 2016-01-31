@@ -5,7 +5,7 @@
 An estimator of a marginal average of a regression function
 }
 \description{
-Calculates the values of an estimator of a marginal average
+Computes the values of an estimator of a marginal average
 of a regression function on a regular grid.
 Marginal averages are called also partial dependency functions.
 }

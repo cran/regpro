@@ -5,7 +5,7 @@
 Regression function estimator in the single index model
 }
 \description{
-Calculates the values of a single index model regression estimator 
+Computes the values of a single index model regression estimator 
 on a regular grid.
 }
 \usage{

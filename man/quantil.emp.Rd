@@ -5,7 +5,7 @@
 Empirical p:th quantile 
 }
 \description{
-Calculates the value of the empirical p:th quantile.
+Computes the value of the empirical p:th quantile.
 }
 \usage{
 quantil.emp(y, p)

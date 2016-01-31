@@ -5,7 +5,7 @@
 Multivariate linear ridge regression estimator
 }
 \description{
-Calculates the parameter estimates in the linear least squares ridge regression.
+Computes the parameter estimates in a linear least squares ridge regression.
 }
 \usage{
 linear(x, y, eleg=TRUE, lambda=0)

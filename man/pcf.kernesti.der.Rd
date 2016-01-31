@@ -5,7 +5,7 @@
 A kernel estimator of a partial derivative of a regression function
 }
 \description{
-Calculates the values of an estimator of a partial derivative
+Computes the values of an estimator of a partial derivative
 of a regression function on a regular grid.
 The estimator is a partial derivative of a kernel regression estimator of 
 the regression function.

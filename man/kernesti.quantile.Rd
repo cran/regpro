@@ -5,7 +5,7 @@
 Multivariate kernel conditional quantile estimator at one point
 }
 \description{
-Calculates the value of a multivariate kernel conditional quantile estimator 
+Computes the value of a multivariate kernel conditional quantile estimator 
 at one point.
 }
 \usage{

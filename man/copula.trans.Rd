@@ -5,8 +5,8 @@
 Makes a copula transformation
 }
 \description{
-Transforms the data matrix so that the marginals follow approximately
-standard Gaussian distribution. Alternatively, the marginals can be 
+Transforms a data matrix so that the marginals follow approximately
+the standard Gaussian distribution. Alternatively, the marginals can be 
 transformed to follow approximately the uniform distribution on [0,1].
 }
 \usage{

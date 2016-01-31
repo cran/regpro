@@ -5,7 +5,7 @@
 Single index model regression estimator at one point
 }
 \description{
-Calculates the value of a single index model regression estimator 
+Computes the value of a single index model regression estimator 
 at one point.
 }
 \usage{
